@@ -1,4 +1,4 @@
-# Task-1 
+# Task-1:-  Scan Your Local Network for Open Ports
 In order find ip range of my system ,i opened my command prompt 
 using it i found local ip addres, subnetmask, and default gate way
 using all these three pararmetrs i found my local ip range 
